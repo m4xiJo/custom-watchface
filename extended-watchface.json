@@ -38,7 +38,7 @@
     "DelimiterImage": {
       "X": 56,
       "Y": 50,
-      "ImageIndex": 100
+      "ImageIndex": 110
     }
   },
   "Activity": {
@@ -65,7 +65,7 @@
         "ImageIndex": 21,
         "ImagesCount": 10
       },
-      "SuffixImageIndex": 101
+      "SuffixImageIndex": 111
     },
     "Distance": {
       "Number": {
@@ -78,8 +78,8 @@
         "ImageIndex": 21,
         "ImagesCount": 10
       },
-      "SuffixImageIndex": 102,
-      "DecimalPointImageIndex": 103
+      "SuffixImageIndex": 112,
+      "DecimalPointImageIndex": 113
     }
   },
   "Date": {
@@ -95,7 +95,7 @@
           "ImageIndex": 21,
           "ImagesCount": 10
         },
-        "DelimiterImageIndex": 104
+        "DelimiterImageIndex": 114
       },
       "TwoDigitsMonth": true,
       "TwoDigitsDay": true
@@ -103,7 +103,7 @@
     "WeekDay": {
       "X": 2,
       "Y": 94,
-      "ImageIndex": 79,
+      "ImageIndex": 89,
       "ImagesCount": 21
     }
   },
@@ -112,64 +112,104 @@
       "StartImageIndex": 31,
       "Segments": [
         {
-          "X": 60,
-          "Y": 120
-        },
-        {
-          "X": 81,
-          "Y": 124
-        },
-        {
-          "X": 99,
-          "Y": 140
-        },
-        {
-          "X": 109,
-          "Y": 161
-        },
-        {
-          "X": 105,
-          "Y": 185
-        },
-        {
-          "X": 89,
-          "Y": 206
-        },
-        {
-          "X": 71,
-          "Y": 221
-        },
-        {
-          "X": 48,
-          "Y": 230
-        },
-        {
-          "X": 25,
-          "Y": 222
-        },
-        {
-          "X": 8,
-          "Y": 205
-        },
-        {
-          "X": 0,
-          "Y": 185
-        },
-        {
-          "X": 0,
-          "Y": 156
+          "X": 2,
+          "Y": 122
         },
         {
           "X": 2,
-          "Y": 139
+          "Y": 122
         },
         {
-          "X": 14,
-          "Y": 126
+          "X": 2,
+          "Y": 122
         },
         {
-          "X": 31,
-          "Y": 109
+          "X": 2,
+          "Y": 122
+        },
+        {
+          "X": 2,
+          "Y": 122
+        },
+        {
+          "X": 2,
+          "Y": 122
+        },
+        {
+          "X": 2,
+          "Y": 122
+        },
+        {
+          "X": 2,
+          "Y": 122
+        },
+        {
+          "X": 2,
+          "Y": 122
+        },
+        {
+          "X": 2,
+          "Y": 122
+        },
+        {
+          "X": 2,
+          "Y": 122
+        },
+        {
+          "X": 2,
+          "Y": 122
+        },
+        {
+          "X": 2,
+          "Y": 122
+        },
+        {
+          "X": 2,
+          "Y": 122
+        },
+        {
+          "X": 2,
+          "Y": 122
+        },
+        {
+          "X": 2,
+          "Y": 122
+        },
+        {
+          "X": 2,
+          "Y": 122
+        },
+        {
+          "X": 2,
+          "Y": 122
+        },
+        {
+          "X": 2,
+          "Y": 122
+        },
+        {
+          "X": 2,
+          "Y": 122
+        },
+        {
+          "X": 2,
+          "Y": 122
+        },
+        {
+          "X": 2,
+          "Y": 122
+        },
+        {
+          "X": 2,
+          "Y": 122
+        },
+        {
+          "X": 2,
+          "Y": 122
+        },
+        {
+          "X": 2,
+          "Y": 122
         }
       ]
     }
@@ -183,7 +223,7 @@
         "Alignment": 0,
         "Order": 1
       },
-      "ImageIndexOn": 105
+      "ImageIndexOn": 115
     },
     "Lock": {
       "Coordinates": {
@@ -193,7 +233,7 @@
         "Alignment": 0,
         "Order": 1
       },
-      "ImageIndexOn": 106
+      "ImageIndexOn": 116
     },
     "Bluetooth": {
       "Coordinates": {
@@ -203,7 +243,7 @@
         "Alignment": 0,
         "Order": 1
       },
-      "ImageIndexOn": 107
+      "ImageIndexOn": 117
     },
     "Battery": {
       "BatteryConfig": {
@@ -218,13 +258,13 @@
         "BottomRightY": 13,
         "Alignment": "TopRight",
         "Spacing": 0,
-        "ImageIndex": 46,
+        "ImageIndex": 56,
         "ImagesCount": 10
       },
       "Icon": {
         "X": 92,
         "Y": 0,
-        "ImageIndex": 56,
+        "ImageIndex": 66,
         "ImagesCount": 23
       }
     }
