@@ -10,13 +10,13 @@
     "Hours": {
       "Tens": {
         "X": 0,
-        "Y": 34,
+        "Y": 28,
         "ImageIndex": 1,
         "ImagesCount": 3
       },
       "Ones": {
         "X": 28,
-        "Y": 34,
+        "Y": 28,
         "ImageIndex": 1,
         "ImagesCount": 10
       }
@@ -24,21 +24,21 @@
     "Minutes": {
       "Tens": {
         "X": 68,
-        "Y": 34,
+        "Y": 28,
         "ImageIndex": 1,
         "ImagesCount": 10
       },
       "Ones": {
         "X": 96,
-        "Y": 34,
+        "Y": 28,
         "ImageIndex": 1,
         "ImagesCount": 10
       }
     },
     "DelimiterImage": {
       "X": 56,
-      "Y": 50,
-      "ImageIndex": 100
+      "Y": 44,
+      "ImageIndex": 88
     }
   },
   "Activity": {
@@ -57,7 +57,7 @@
     "Calories": {
       "Number": {
         "TopLeftX": 0,
-        "TopLeftY": 206,
+        "TopLeftY": 200,
         "BottomRightX": 120,
         "BottomRightY": 216,
         "Alignment": "TopCenter",
@@ -65,45 +65,45 @@
         "ImageIndex": 21,
         "ImagesCount": 10
       },
-      "SuffixImageIndex": 101
+      "SuffixImageIndex": 89
     },
     "Distance": {
       "Number": {
         "TopLeftX": 0,
         "TopLeftY": 142,
         "BottomRightX": 120,
-        "BottomRightY": 152,
+        "BottomRightY": 158,
         "Alignment": "TopCenter",
         "Spacing": 2,
         "ImageIndex": 21,
         "ImagesCount": 10
       },
-      "SuffixImageIndex": 102,
-      "DecimalPointImageIndex": 103
+      "SuffixImageIndex": 90,
+      "DecimalPointImageIndex": 91
     }
   },
   "Date": {
     "MonthAndDay": {
       "OneLine": {
         "Number": {
-          "TopLeftX": 86,
-          "TopLeftY": 97,
-          "BottomRightX": 120,
-          "BottomRightY": 106,
-          "Alignment": "Center",
+          "TopLeftX": 56,
+          "TopLeftY": 93,
+          "BottomRightX": 106,
+          "BottomRightY": 110,
+          "Alignment": "TopRight",
           "Spacing": 0,
           "ImageIndex": 21,
           "ImagesCount": 10
         },
-        "DelimiterImageIndex": 104
+        "DelimiterImageIndex": 92
       },
       "TwoDigitsMonth": true,
       "TwoDigitsDay": true
     },
     "WeekDay": {
-      "X": 2,
-      "Y": 94,
-      "ImageIndex": 79,
+      "X": 17,
+      "Y": 93,
+      "ImageIndex": 67,
       "ImagesCount": 21
     }
   },
@@ -157,19 +157,19 @@
         },
         {
           "X": 0,
-          "Y": 156
+          "Y": 160
         },
         {
-          "X": 2,
-          "Y": 139
+          "X": 3,
+          "Y": 138
         },
         {
           "X": 14,
-          "Y": 126
+          "Y": 125
         },
         {
-          "X": 31,
-          "Y": 109
+          "X": 36,
+          "Y": 120
         }
       ]
     }
@@ -177,33 +177,33 @@
   "Status": {
     "DoNotDisturb": {
       "Coordinates": {
-        "X": 20,
+        "X": 32,
         "Y": 0,
         "BoxWidth": 0,
         "Alignment": 0,
         "Order": 1
       },
-      "ImageIndexOn": 105
+      "ImageIndexOn": 93
     },
     "Lock": {
       "Coordinates": {
-        "X": 0,
+        "X": 12,
         "Y": 0,
         "BoxWidth": 0,
         "Alignment": 0,
         "Order": 1
       },
-      "ImageIndexOn": 106
+      "ImageIndexOn": 94
     },
     "Bluetooth": {
       "Coordinates": {
-        "X": 40,
+        "X": -4,
         "Y": 0,
         "BoxWidth": 0,
         "Alignment": 0,
         "Order": 1
       },
-      "ImageIndexOn": 107
+      "ImageIndexOn": 95
     },
     "Battery": {
       "BatteryConfig": {
@@ -211,21 +211,11 @@
         "Alignment": 0,
         "Order": 0
       },
-      "Text": {
-        "TopLeftX": 150,
-        "TopLeftY": 3,
-        "BottomRightX": 82,
-        "BottomRightY": 13,
-        "Alignment": "TopRight",
-        "Spacing": 0,
-        "ImageIndex": 46,
-        "ImagesCount": 10
-      },
       "Icon": {
-        "X": 92,
+        "X": 88,
         "Y": 0,
-        "ImageIndex": 56,
-        "ImagesCount": 23
+        "ImageIndex": 46,
+        "ImagesCount": 21
       }
     }
   }
